@@ -3,7 +3,7 @@ MTRX3700 Assignment 2: Beat-Sync VFX
 
 ## Git Setup Instructions
 
-1. **Clone the repository**
+1. **Clone the repository to your local**
 
    * Use a path with no spaces.
 
